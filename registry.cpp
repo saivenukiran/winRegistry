@@ -2,8 +2,6 @@
 	Created By Sai Venu Kiran Bolla
 */
 #include "registry.h"
-//#include "ClientBlockHelper.h"
-//#include "CrtHelper.h"
 
 
 // static members
